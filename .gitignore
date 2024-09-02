@@ -1,0 +1,6 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore __pycache__ and .DS_Store (MacOS)
+__pycache__/
+.DS_Store
